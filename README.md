@@ -101,10 +101,6 @@ I am passionate about transforming raw data into meaningful insights and buildin
 </p>
 
 
-
-
-
-
 # 📊 GitHub Stats  
 
 <p align="center">
@@ -112,6 +108,11 @@ I am passionate about transforming raw data into meaningful insights and buildin
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jishabpatel21&theme=tokyonight"/>
 </p>
 
+# 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jishabpatel21&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
 
 # 🌐 Connect With Me  
 
