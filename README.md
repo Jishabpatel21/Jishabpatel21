@@ -4,19 +4,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00FFB3&center=true&vCenter=true&width=600&lines=AI+Explorer+🤖;Computer+Vision+Enthusiast+👁️;Data+Science+Student+📊;Future+AI+Engineer+🚀;Full+Stack+Developer+💻" />
 </p>
 
+
+
+<!-- <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
+
 ## 🚀 About Me  
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+</p>
 
-🔭 Building: AI-Based Real-Time Object Detection using YOLOv8  
+Hi, I'm a **Data Analyst and Software Developer** with strong skills in **Python, SQL, and Data Visualization**.  
+I am passionate about transforming raw data into meaningful insights and building intelligent, efficient software solutions.
 
-🌱 Learning: Deep Learning • Predictive Analytics • Cloud (AWS)  
+🔭 **Currently Building:** AI-Based Real-Time Object Detection using YOLOv8  
 
-👯 Open to: AI • Data Science • Web Development Projects  
+🌱 **Currently Learning:** Deep Learning • Predictive Analytics • Cloud (AWS)  
 
-💬 Ask me about: Python • SQL • DSA • Power BI • ML  
+👯 **Open to Collaborate On:** AI • Data Science • Web Development Projects  
 
-⚡ Fun Fact: I turn coffee into intelligent systems ☕🤖  
+💬 **Ask Me About:** Python • SQL • DSA • Power BI • Machine Learning  
+
+⚡ **Fun Fact:** I turn coffee into intelligent systems ☕🤖
 
 
 
@@ -90,11 +99,7 @@
 <p>
   <img src="https://leetcard.jacoblin.cool/Jishabpatel?theme=dark&font=Karma&ext=heatmap" />
 </p>
-
-
-
-
-
+<h2 align="center">🏆 LeetCode</h2>
 
 
 <!-- <a href="https://www.kaggle.com/">
