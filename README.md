@@ -14,8 +14,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
 </p>
 
-Hi, I'm a **Data Analyst and Software Developer** with strong skills in **Python, SQL, and Data Visualization**.  
-I am passionate about transforming raw data into meaningful insights and building intelligent, efficient software solutions.
+Hi, I'm a B.Tech Data Science student passionate about **Data Analyst and Software Developer** with strong skills in **Python, SQL, and Data Visualization**.I am passionate about transforming raw data into meaningful insights and building intelligent, efficient software solutions.
 
 🔭 **Currently Building:** AI-Based Real-Time Object Detection using YOLOv8  
 
