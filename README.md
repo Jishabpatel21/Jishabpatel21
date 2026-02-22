@@ -9,9 +9,8 @@
 <!-- <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 ## 🚀 About Me  
-
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://raw.githubusercontent.com/Jishabpatel21/Jishabpatel21/main/tech-banner.jpg" width="100%" />
 </p>
 
 Hi, I'm a B.Tech Data Science student passionate about **Data Analyst and Software Developer** with strong skills in **Python, SQL, and Data Visualization**.
@@ -100,14 +99,10 @@ I am passionate about transforming raw data into meaningful insights and buildin
 <p>
   <img src="https://leetcard.jacoblin.cool/Jishabpatel?theme=dark&font=Karma&ext=heatmap" />
 </p>
-<h2 align="center">🏆 LeetCode</h2>
 
 
-<!-- <a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black"/>
-</a> -->
 
-<!-- </p> -->
+
 
 
 # 📊 GitHub Stats  
