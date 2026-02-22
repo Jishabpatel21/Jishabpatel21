@@ -80,17 +80,28 @@
 
 # 🏆 Coding Profiles
 
-<p align="center">
+<!-- <p align="center"> -->
 
 <a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+<h2>🏆 LeetCode Stats</h2>
 
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black"/>
-</a>
-
+<p>
+  <img src="https://leetcard.jacoblin.cool/Jishabpatel?theme=dark&font=Karma&ext=heatmap" />
 </p>
+
+
+
+
+
+
+
+<!-- <a href="https://www.kaggle.com/">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black"/>
+</a> -->
+
+<!-- </p> -->
 
 
 # 📊 GitHub Stats  
@@ -103,11 +114,13 @@
 
 # 🌐 Connect With Me  
 
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://www.linkedin.com/in/jishab-patel/">
     <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:jishabpatel21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
+<!-- </p> -->
+
+
