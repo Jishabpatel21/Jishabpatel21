@@ -122,17 +122,28 @@ I am passionate about transforming raw data into meaningful insights and buildin
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jishabpatel21/Jishabpatel21/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Jishabpatel21/Jishabpatel21/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 # 🌐 Connect With Me  
+
+
 
 <!-- <p align="center"> -->
   <a href="https://www.linkedin.com/in/jishab-patel/">
     <img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
+  
   <a href="mailto:jishabpatel21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FF4C4C?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/Jishabpatel/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="https://jishabpatel.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00FFB2?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 <!-- </p> -->
 
