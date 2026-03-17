@@ -119,6 +119,11 @@ I am passionate about transforming raw data into meaningful insights and buildin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jishabpatel21&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </p>
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jishabpatel21/Jishabpatel21/output/github-contribution-grid-snake.svg" />
+</p>
 # 🌐 Connect With Me  
 
 <!-- <p align="center"> -->
